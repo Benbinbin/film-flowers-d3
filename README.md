@@ -8,3 +8,6 @@
 * 花瓣颜色 —— 电影类型（使用所属分类数组的第一个值作为代表）
 
 参考：[Workshop: Introduction to D3.js](https://observablehq.com/collection/@sxywu/introduction-to-d3-js)
+
+其他：
+* 项目实现步骤：[Film Flower](https://observablehq.com/collection/@benbinbin/film-flower)
